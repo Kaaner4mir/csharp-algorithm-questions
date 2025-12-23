@@ -146,5 +146,44 @@
         //    Console.WriteLine($"{i + 1}. sayının karesi: {squareOfNumbers[i]}");
         //}
         #endregion
+        #region 8. Klavyeden 3 not girilir. İlk notun %30, ikinci notun %30 ve son notun da %40’ını bulan programı yapınız. Sonuç olarak da 3 notun yüzdelerini toplayıp ekrana yazdırınız.
+
+        //double firstGrade, secondGrade, thirdGrade;
+
+        //Console.Write("1. Sınav notunu girin: ");
+        //firstGrade = Convert.ToInt32(Console.ReadLine());
+        //Console.Write("2. Sınav notunu girin: ");
+        //secondGrade = Convert.ToInt32(Console.ReadLine());
+        //Console.Write("2. Sınav notunu girin: ");
+        //thirdGrade = Convert.ToInt32(Console.ReadLine());
+
+        //double result = (firstGrade * 0.3) + (secondGrade * 0.3) + (thirdGrade * 0.4);
+
+
+        //Console.WriteLine($"3 sınavınızın ortalaması: {result}");
+
+        #endregion
+        #region 9. Klavyeden bir tam sayı okutunuz. Bu sayı ile klavyeden okunan diğer 10 sayıyı çarpma işlemi uygulayınız, sonuçları ekrana yazınız.
+
+        //Console.Write("Sabit sayıyı girin: ");
+        //int baseNumber = Convert.ToInt32(Console.ReadLine());
+
+        //int[] numbers = new int[10];
+
+        //for (int i = 0; i < numbers.Length; i++)
+        //{
+        //    Console.Write($"{i+1}. sayıyı girin: ");
+        //    numbers[i] = Convert.ToInt32(Console.ReadLine());
+        //}
+
+        //for (int i = 0; i < numbers.Length; i++)
+        //{
+        //    Console.WriteLine($"{baseNumber} X {numbers[i]} = {baseNumber * numbers[i]}");
+        //}
+
+        #endregion
+        #region 10. Klavyeden girilen sayının önce karesini alan bulduğun sonucun rakamları çarpımını ekrana yazdıran programın algoritmasını yazınız
+
+        #endregion
     }
 }
